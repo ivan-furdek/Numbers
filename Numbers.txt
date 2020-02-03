@@ -2,28 +2,37 @@
   "Combinations": {
     "combinations": [
       {
-        "combination": [ 1, 9, 15, 22, 26, 27, 28 ]
+        "combination": [ 3, 6, 9, 14, 21, 24, 39 ]
       },
       {
-        "combination": [ 5, 9, 15, 22, 23, 31, 37 ]
+        "combination": [ 6, 9, 13, 15, 21, 26, 27 ]
       },
       {
-        "combination": [ 4, 5, 12, 16, 26, 30, 37 ]
+        "combination": [ 1, 2, 2, 13, 16, 25, 26 ]
       },
       {
-        "combination": [ 7, 17, 20, 24, 29, 32, 35 ]
+        "combination": [ 5, 10, 12, 20, 29, 33, 39 ]
       },
       {
-        "combination": [ 2, 7, 10, 13, 16, 23, 32 ]
+        "combination": [ 3, 5, 11, 22, 24, 24, 25 ]
       },
       {
-        "combination": [ 2, 8, 12, 13, 17, 29, 34 ]
+        "combination": [ 2, 7, 18, 26, 27, 37, 38 ]
       },
       {
-        "combination": [ 1, 7, 11, 12, 16, 26, 34 ]
+        "combination": [ 1, 5, 12, 24, 28, 36, 39 ]
       },
       {
-        "combination": [ 3, 7, 8, 13, 15, 25, 31 ]
+        "combination": [ 2, 14, 16, 24, 25, 35, 39 ]
+      },
+      {
+        "combination": [ 1, 16, 30, 30, 31, 34, 37 ]
+      },
+      {
+        "combination": [ 9, 9, 10, 11, 19, 35, 37 ]
+      },
+      {
+        "combination": [ 7, 13, 13, 19, 20, 20, 22 ]
       }
     ]
   },
